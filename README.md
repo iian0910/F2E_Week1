@@ -1,24 +1,27 @@
-# f2e_week1
-
-## Project setup
+## The F2E Week1 活動網站設計
 ```
-npm install
+使用視差滾動，去闡述活動內容。
 ```
 
-### Compiles and hot-reloads for development
+### 系統說明
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+vue   : v2.6.11
+node  : v12.18.2
 ```
 
-### Lints and fixes files
+### 資料夾說明
 ```
-npm run lint
+assets      : image / js / scss
+components  : 畫面元件
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo
+```
+Demo Link
+```
+
+### 使用技術
+```
+Vue 2
+GASP
+```
